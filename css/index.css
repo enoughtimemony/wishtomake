@@ -1,0 +1,23 @@
+.index-page-main-box {
+  width: 50%;
+  height: 150vh;
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+.index-page-main-header {
+  display: flex;
+  flex-direction: column;
+}
+.index-page-main-picture {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+}
+.index-page-picture-one {
+  width: 370px;
+  height: 500px;
+}
+.index-page-main-title {
+  text-align: center;
+}
